@@ -5393,6 +5393,8 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 connectivity_plus
+device_info_plus
+device_info_plus_platform_interface
 package_info_plus
 
 // Copyright 2017 The Chromium Authors. All rights reserved.
