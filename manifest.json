@@ -1,11 +1,11 @@
 {
-    "name": "Omar Zaghlouleh - Portfolio",
-    "short_name": "Omar Zaghlouleh",
+    "name": "portfolio_v2",
+    "short_name": "portfolio_v2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description":"Omar Zaghlouleh - Portfolio",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
